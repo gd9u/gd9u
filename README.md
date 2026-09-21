@@ -2,6 +2,18 @@
   <img src="./banner.gif" width="100%">
 </p>
 
+<h1 align="center">Arthur 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Roblox+Developer;Learning+Lua;Learning+JavaScript+and+Node.js&center=true&width=500&height=45">
+</p>
+
+<h2 align="center">🛠️ Tecnologias</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=lua,js,nodejs,py,html,css,vscode,git,github">
+</p>
+
 <p align="center">
   <img src="./assets/banner.gif" width="100%">
 </p>
@@ -16,27 +28,36 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🎮 Desenvolvendo projetos no Roblox
-- 🌐 Aprendendo desenvolvimento web
-- 🖥️ Mexendo com Node.js e servidores
-- 🚀 Criando projetos por diversão e aprendizado
+* 🎮 Desenvolvendo jogos e sistemas no **Roblox Studio**
+* 🌙 Aprendendo **Lua**
+* 🌐 Aprendendo **JavaScript, Node.js, HTML e CSS**
+* 🐍 Também mexendo com **Python**
+* 💻 Gosto de criar projetos, testar ideias e entender como as coisas funcionam
 
-## 🛠️ Tecnologias
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,lua,python,vscode,git,github" />
+## 🚀 Projetos
+
+### 📞 VibeCall
+
+Aplicativo de chamadas com chat, perfis, grupos e compartilhamento de tela.
+
+`JavaScript` `Node.js` `Electron` `WebRTC` `WebSocket`
+
+### ⚔️ Sword Fight
+
+Jogo de combate com espadas feito no Roblox, com leaderboards, killstreaks e outros sistemas.
+
+`Lua` `Roblox Studio`
+
+### 🛍️ Roblox Catalog
+
+Sistema de catálogo para Roblox com interface, pesquisa e visualização de itens.
+
+`Lua` `Roblox Studio`
+
+---
+
+<p align="center">
+  <i>Sempre aprendendo e criando coisas novas 🚀</i>
 </p>
-
-## 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)
-
-## 🔥 Projetos
-
-### 🎮 Meu jogo
-Projeto feito utilizando Lua e Roblox Studio.
-
-### 💻 Meu aplicativo
-Aplicativo criado utilizando Node.js e outras tecnologias.
