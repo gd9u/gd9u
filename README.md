@@ -1,16 +1,42 @@
-## Hi there 👋
+<p align="center">
+  <img src="./banner.gif" width="100%">
+</p>
 
-<!--
-**gd9u/gd9u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="./assets/banner.gif" width="100%">
+</p>
 
-Here are some ideas to get you started:
+<h1 align="center">Olá 👋</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Desenvolvedor aprendendo Lua, JavaScript, Node.js e desenvolvimento de jogos.
+</p>
+
+---
+
+## 👨‍💻 Sobre mim
+
+- 🎮 Desenvolvendo projetos no Roblox
+- 🌐 Aprendendo desenvolvimento web
+- 🖥️ Mexendo com Node.js e servidores
+- 🚀 Criando projetos por diversão e aprendizado
+
+## 🛠️ Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,lua,python,vscode,git,github" />
+</p>
+
+## 📊 GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)
+
+## 🔥 Projetos
+
+### 🎮 Meu jogo
+Projeto feito utilizando Lua e Roblox Studio.
+
+### 💻 Meu aplicativo
+Aplicativo criado utilizando Node.js e outras tecnologias.
