@@ -61,3 +61,13 @@ Sistema de catálogo para Roblox com interface, pesquisa e visualização de ite
 <p align="center">
   <i>Sempre aprendendo e criando coisas novas 🚀</i>
 </p>
+
+<h2 align="center">🐍 Minhas contribuições</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gd9u/gd9u/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gd9u/gd9u/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/gd9u/gd9u/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
